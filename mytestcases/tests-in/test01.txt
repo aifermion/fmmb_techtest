@@ -1,0 +1,38 @@
+The following text <C><B>is centered and in boldface</B></C>
+<A>Simple tag</A>
+<X><Y><Z>Nested tags</Z></Y></X>
+<B><C>Wrongly nested tags</B></C>
+<A><B><C>Very wrongly nested tags</A></B></C>
+<B>Missing closing tag
+<A><B><C>Multiple missing closing tags
+Extra closing tag</A>
+<A>Extra closing tags</A></B></C>
+<A><B>Mixed issues</C></A>
+<X>Mixed <Y>issues</X></Z>
+<A>Hi</A>
+<B><C>Hii</C></B>
+<A>First</A><B>Second</B><C>Third</C>
+<a>Lowercase should be ignored</a>
+<A>Uppercase <b>mixed with</b> lowercase</A>
+<X>Special @#$%^ characters</X>
+<A1>Numbers in tags</A1>
+<A><B><C><D><E><F><G>Very deep nesting</G></F></E></D></C></B></A>
+Incomplete opening tag <A
+Incomplete closing tag </A
+<AB>Multiple characters in tag</AB>
+<1>Numeric tag</1>
+<@>Special character tag</@>
+<A_B>Underscore in tag</A_B>
+<AA>Multiple uppercase letters</AA>
+< A>Space after opening bracket</A>
+<A >Space before closing bracket</A>
+<a>Lowercase tag</a>
+</a>Closing tag without opening
+<A></ A></A>
+<<A>>Double brackets<</A>>
+<A href="test">Attribute in tag</A>
+<A>Mismatched <B>tags</C></B></A>
+<💡>Emoji in tag</💡>
+<A>Mixed <B>nesting </A>levels</B>
+<A<B>>Nested opening brackets</A</B>>
+<A><B> Trying Multiple unclosed tags

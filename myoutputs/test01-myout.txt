@@ -1,0 +1,24 @@
+Correctly tagged paragraph
+Correctly tagged paragraph
+Correctly tagged paragraph
+Expected </C> found </B>
+Expected </C> found </A>
+Expected </B> found #
+Expected </C> found #
+Expected # found </A>
+Expected # found </B>
+Expected </B> found </C>
+Expected </Y> found </X>
+Correctly tagged paragraph
+Correctly tagged paragraph
+Correctly tagged paragraph
+Correctly tagged paragraph
+Correctly tagged paragraph
+Correctly tagged paragraph
+Expected # found </A>
+Expected # found </A>
+Correctly tagged paragraph
+Expected # found </A>
+Expected </B> found </C>
+Expected </B> found </A>
+Expected </B> found #
